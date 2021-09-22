@@ -1,4 +1,4 @@
--Create App Registration, name application for easy identification
+--Create App Registration, name application for easy identification
 Authentication:
 -Set Home page URL / Web Redirect URI to https://localhost:44317/ or your production host
 -Implicit grant / hybrid flows = ID tokens
